@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+test/__init__.py
+test_package_by_pawan.egg-info/PKG-INFO
+test_package_by_pawan.egg-info/SOURCES.txt
+test_package_by_pawan.egg-info/dependency_links.txt
+test_package_by_pawan.egg-info/top_level.txt
